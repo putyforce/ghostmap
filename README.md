@@ -1,0 +1,2 @@
+# ghostmap
+Golang network scanner
